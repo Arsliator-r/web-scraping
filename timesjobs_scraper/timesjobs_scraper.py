@@ -29,10 +29,4 @@ def scraper():
                 file.write(f'Click the link to access the job : {job_link} \n')
 
 if __name__ == '__main__':
-    from datetime import datetime
-    while True:
         scraper()
-        exit
-        # time_wait = 10
-        # print(f'Waiting {time_wait} minutes...')
-        # time.sleep(time_wait * 60)
