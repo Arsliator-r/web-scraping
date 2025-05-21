@@ -1,0 +1,1 @@
+All the scraped files will be stored in this directory
