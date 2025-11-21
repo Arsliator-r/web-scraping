@@ -1,0 +1,17 @@
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+*.env
+
+# --- Python Junk ---
+__pycache__/
+*.pyc
+
+# --- Editor Settings (Optional) ---
+.vscode/
+.idea/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
